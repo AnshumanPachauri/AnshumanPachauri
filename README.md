@@ -28,4 +28,20 @@ Backend Software Engineer with 3 years of experience building enterprise applica
 ![](https://github-contributor-stats.vercel.app/api?username=AnshumanPachauri&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🐍 Contribution Snake
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/AnshumanPachauri/AnshumanPachauri/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/AnshumanPachauri/AnshumanPachauri/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="GitHub contribution snake"
+    src="https://raw.githubusercontent.com/AnshumanPachauri/AnshumanPachauri/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+
