@@ -15,9 +15,21 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 💫 About Me:
-Collection-batch-orchestration<br>
+# Hi there 👋 I'm Anshuman Pachauri
 
+# 💫 About Me:
+
+Backend Software Engineer with 3 years of experience building enterprise applications in the BFSI domain. Passionate about Java, Spring Boot, Microservices, System Design, and writing clean, scalable code. Currently sharpening DSA and building backend projects while seeking new opportunities.<br>
+
+## 🚀 Tech Stack
+- Java
+- Spring Boot
+- REST APIs
+- Microservices
+- SQL
+- Docker
+- Git
+- Maven
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/anshuman-pachauri-530794220) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anshumanpachauri26@gmail.com) 
